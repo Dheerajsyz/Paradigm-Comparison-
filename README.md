@@ -2,7 +2,7 @@
 
 This project implements a statistics calculator that computes basic statistics (mean, median, and mode) for a list of integers. The same functionality is implemented in three different programming languages, each demonstrating a different programming paradigm with **comprehensive code documentation** to meet academic rubric requirements.
 
-## Programming Paradigms Demonstrated
+## Programming Paradigms
 
 - **C**: Procedural programming approach with detailed comments explaining procedural concepts
 - **OCaml**: Functional programming approach with comprehensive functional programming documentation  
